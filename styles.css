@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.header{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	justify-content:space-between;
+}
+.three{
+	width:100px;
+	height:100px;
+	background-color: green;
+	order:1;
+}
+.one{
+	width:100px;
+	height:100px;
+	background-color: red;
+	order:2;
+}
+.two{
+	width:100px;
+	height:100px;
+	background-color: blue;
+	order:4;
+}
+
+
+
