@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.header{
+.holder{
 	display:flex;
 	flex-wrap:wrap;
 	align-items:center;
